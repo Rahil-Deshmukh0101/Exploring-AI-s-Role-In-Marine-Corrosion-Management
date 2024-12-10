@@ -1,4 +1,4 @@
-🌊🔬 **Exploring AI's Role in Marine Corrosion Management** 🌐⚙️  
+🌊🚢 **Exploring AI's Role in Marine Corrosion Management** 🌐⚙️  
 
 This repository provides a comprehensive review of the research paper *"Application of Artificial Intelligence in Marine Corrosion Prediction and Detection."*  
 
